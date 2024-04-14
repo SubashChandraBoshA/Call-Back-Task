@@ -1,0 +1,13 @@
+body {
+    background-color:rgb(13, 27, 3);
+    color:white;
+}
+
+span{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin: 300px;
+}
